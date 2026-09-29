@@ -29,6 +29,7 @@ h1 {
 }
 
 marquee pre {
+	display: inline-block;
 	margin: 0;
 	padding: 10px 0;
 	font-family: "shoes";
