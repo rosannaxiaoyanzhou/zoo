@@ -31,9 +31,9 @@ h1 {
 marquee pre {
 	display: inline-block;
 	margin: 0;
-	padding: 10px 0;
+	padding: 10px 10px;
 	font-family: "shoes";
-	line-height: 1.15;
+	line-height: 1.25;
 	font-size: 15px;
 	text-align: center;
 	
@@ -42,7 +42,7 @@ pre {
 	margin: 0;
 	padding: 10px 0;
 	font-family: "shoes";
-	font-size: 2vw;
+	font-size: 1.5vw;
 	text-align: center;
 }
 
