@@ -1,0 +1,50 @@
+@font-face{
+	font-family: "shoes";
+	src:url("grid-Regular.otf");format ("opentype");
+}
+
+
+body {
+	margin: 0;
+	padding: 10px 10px;
+	font-family: "shoes";
+	color: #ffffff;
+	background: #2255c3;
+	background: linear-gradient(0deg, rgba(34, 85, 195, 1) 1%, rgba(34, 193, 195, 1) 59%, rgba(253, 187, 45, 1) 100%);
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 20px;
+	color: #1414e6;
+	font-size: 9vw;
+	font-weight: 900;
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-thickness: 6px;
+	text-underline-offset: 10px;
+	line-height: 1.5;
+	text-shadow: 0 4px 12px rgba(20, 20, 230, 0.5);
+}
+
+marquee pre {
+	margin: 0;
+	padding: 10px 0;
+	font-family: "shoes";
+	line-height: 1.15;
+	font-size: 15px;
+	text-align: center;
+	
+}
+pre {
+	margin: 0;
+	padding: 10px 0;
+	font-family: "shoes";
+	font-size: 3vw;
+	text-align: center;
+}
+
+
+
+
