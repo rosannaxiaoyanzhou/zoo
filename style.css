@@ -16,12 +16,11 @@ body {
 h1 {
 	margin: 0;
 	padding: 20px 20px;
-	color: #1414e6;
-	font-size: 9vw;
+	color: white;
+	font-size: 3vw;
 	font-weight: 900;
 	text-transform: uppercase;
 	text-align: center;
-	text-decoration: underline;
 	text-decoration-thickness: 6px;
 	text-underline-offset: 10px;
 	line-height: 1.5;
